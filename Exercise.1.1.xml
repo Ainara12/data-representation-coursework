@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root-element attribute-name="Library">
+ <technicalbooks>Technical Books</technicalbooks>
+  <Book1>
+    <ISBN>45656</ISBN>
+    <title>Technology for all </title>
+    <author>Zach Wein </author>
+  </Book1>
+  <Book2>
+    <ISBN>7865</ISBN>
+    <title>Machine learning</title>
+    <author>Andrea Connor </author>
+  </Book2>
+   <cookerybooks>Cookery Books</cookerybooks>
+  <Book1>
+    <ISBN>2347</ISBN>
+    <title>Salads </title>
+    <author>Michael Lettuce </author>
+  </Book1>
+  <Book2>
+    <ISBN>2347</ISBN>
+    <title>Omelette for you </title>
+    <author>Brendan OJ </author>
+ </Book2>
+
+</root-element>
