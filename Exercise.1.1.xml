@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Data Representation and Querying module - GMIT, year 2021 -->
+<!-- Name: Ainara Ruiz Castillo, G00387880@gmit.ie -->
+  <Library>
+    <technicalbooks>Technical Books
+
+      <Book>
+        <ISBN>45656</ISBN>
+        <title>Technology for all </title>
+        <author>Zach Wein </author>
+      </Book>
+
+      <Book>
+        <ISBN>7865</ISBN>
+        <title>Machine learning</title>
+        <author>Andrea Connor </author>
+      </Book>
+
+    </technicalbooks>
+
+    <cookerybooks>Cookery Books
+      <Book>
+        <ISBN>2347</ISBN>
+        <title>Salads </title>
+        <author>Michael Lettuce </author>
+      </Book>
+
+      <Book>
+        <ISBN>2347</ISBN>
+        <title>Omelette for you </title>
+        <author>Brendan OJ </author>
+      </Book>
+    </cookerybooks>
+
+  </Library>
